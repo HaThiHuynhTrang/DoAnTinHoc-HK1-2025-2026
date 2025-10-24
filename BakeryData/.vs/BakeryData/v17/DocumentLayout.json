@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7AF577-5554-4307-A4F5-AC24A9AD35CB}|BakeryData\\BakeryData.vcxproj|C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED7AF577-5554-4307-A4F5-AC24A9AD35CB}|BakeryData\\BakeryData.vcxproj|solutionrelative:BakeryData\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7AF577-5554-4307-A4F5-AC24A9AD35CB}|BakeryData\\BakeryData.vcxproj|C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED7AF577-5554-4307-A4F5-AC24A9AD35CB}|BakeryData\\BakeryData.vcxproj|solutionrelative:BakeryData\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Bakery_cleaned.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BakeryData\\Bakery_cleaned.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Bakery.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BakeryData\\Bakery.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7AF577-5554-4307-A4F5-AC24A9AD35CB}|BakeryData\\BakeryData.vcxproj|C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED7AF577-5554-4307-A4F5-AC24A9AD35CB}|BakeryData\\BakeryData.vcxproj|solutionrelative:BakeryData\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bakery.txt",
+              "DocumentMoniker": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Bakery.txt",
+              "RelativeDocumentMoniker": "BakeryData\\Bakery.txt",
+              "ToolTip": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Bakery.txt",
+              "RelativeToolTip": "BakeryData\\Bakery.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-24T05:46:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bakery_cleaned.csv",
+              "DocumentMoniker": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Bakery_cleaned.csv",
+              "RelativeDocumentMoniker": "BakeryData\\Bakery_cleaned.csv",
+              "ToolTip": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Bakery_cleaned.csv",
+              "RelativeToolTip": "BakeryData\\Bakery_cleaned.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-24T05:45:37.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Main.cpp",
+              "RelativeDocumentMoniker": "BakeryData\\Main.cpp",
+              "ToolTip": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\Main.cpp",
+              "RelativeToolTip": "BakeryData\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T09:44:38.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cpp",
+              "DocumentMoniker": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\program.cpp",
+              "RelativeDocumentMoniker": "BakeryData\\program.cpp",
+              "ToolTip": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\program.cpp",
+              "RelativeToolTip": "BakeryData\\program.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T09:37:41.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "library.h",
+              "DocumentMoniker": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\library.h",
+              "RelativeDocumentMoniker": "BakeryData\\library.h",
+              "ToolTip": "C:\\\u0110\u1ED2 \u00C1N TIN H\u1ECCC\\BakeryData\\BakeryData\\library.h",
+              "RelativeToolTip": "BakeryData\\library.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T09:38:11.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

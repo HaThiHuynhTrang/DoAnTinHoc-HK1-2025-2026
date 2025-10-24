@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\ĐỒ ÁN TIN HỌC\BakeryData\BakeryData\Main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  program.cpp
+  Generating Code...
+  BakeryData.vcxproj -> C:\ĐỒ ÁN TIN HỌC\BakeryData\x64\Debug\BakeryData.exe
